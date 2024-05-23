@@ -17,4 +17,19 @@ public class ClassA {
 
 	}
 
+	private void tamilnadu() {
+		System.out.println("TAMIL");
+
+	}
+
+	private void kerala() {
+		System.out.println("MALAYALAM");
+
+	}
+
+	private void andhra() {
+		System.out.println("TELUGU");
+
+	}
+
 }
